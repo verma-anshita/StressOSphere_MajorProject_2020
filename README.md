@@ -9,7 +9,8 @@ An application to detect stress levels of humans by categorizing them as low, me
 * Used to Neural Network Algorithm to model the data.
 
 # UI Design
-
+* UI For low Stress
+![UI](image/lowStress.png?raw=true "Low Stress UI")
 
   
 # Additional Info
