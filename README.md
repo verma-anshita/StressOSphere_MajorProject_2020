@@ -10,8 +10,15 @@ An application to detect stress levels of humans by categorizing them as low, me
 
 # UI Design
 * UI For low Stress
+
 ![UI](image/lowStress.png?raw=true "Low Stress UI")
 
+* UI For mild Stress
+
+![UI](image/mildStress.png?raw=true "Mild Stress UI")
+* UI For high Stress
+
+![UI](image/highStress.png?raw=true "High Stress UI")
   
 # Additional Info
 * Uploaded a report of analysis conducted on stress data.
